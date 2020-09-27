@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0ae3db9-2100-412b-ba02-1b7caee0f846" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="15" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TYeun5JdSpqSrV4qNGZOp9tKAk" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/TestNG" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Uzivatel\IdeaProjects\seleniumadvanced\src\test\Resources" />
+      <recent name="C:\Users\Uzivatel\IdeaProjects\seleniumadvanced\src\main\resources" />
+      <recent name="C:\Users\Uzivatel\IdeaProjects\seleniumadvanced" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="TestNG2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="TestNG" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Uzivatel\IdeaProjects\seleniumadvanced\src\test\java\TestNG" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.SeleniumLoginTest">
+    <configuration name="C:/Users/Uzivatel/IdeaProjects/seleniumadvanced/src/test/java/TestNG2/TestNG_ReportsAndLogs.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumadvanced" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/TestNG2/TestNG_ReportsAndLogs.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumadvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestNG2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestNG2" />
+      <option name="MAIN_CLASS_NAME" value="TestNG2.SeleniumLoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumLoginTest.test1_validLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumadvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestNG2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestNG2" />
+      <option name="MAIN_CLASS_NAME" value="TestNG2.SeleniumLoginTest" />
+      <option name="METHOD_NAME" value="test1_validLoginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNG_ListenersTest1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumadvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestNG.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestNG" />
+      <option name="MAIN_CLASS_NAME" value="TestNG.TestNG_ListenersTest1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNG_ScreenshotOnFailure" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumadvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestNG.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestNG" />
+      <option name="MAIN_CLASS_NAME" value="TestNG.TestNG_ScreenshotOnFailure" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SeleniumLoginTest" />
+        <item itemvalue="TestNG.TestNG_ListenersTest1" />
+        <item itemvalue="TestNG.TestNG_ScreenshotOnFailure" />
+        <item itemvalue="TestNG.SeleniumLoginTest.test1_validLoginTest" />
+        <item itemvalue="TestNG.C:/Users/Uzivatel/IdeaProjects/seleniumadvanced/src/test/java/TestNG2/TestNG_ReportsAndLogs.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0ae3db9-2100-412b-ba02-1b7caee0f846" name="Default Changelist" comment="" />
+      <created>1573641680740</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573641680740</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/seleniumadvanced$C__Users_Uzivatel_IdeaProjects_seleniumadvanced_src_test_java_TestNG2_Listeners_TestSuite_xml.ic" NAME="$PROJECT_DIR$/src/test/java/TestNG2/Listeners TestSuite.xml Coverage Results" MODIFIED="1587905190762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/seleniumadvanced$C__Users_Uzivatel_IdeaProjects_seleniumadvanced_src_test_java_TestNG2_TestNG_ReportsAndLogs_xml.ic" NAME="$PROJECT_DIR$/src/test/java/TestNG2/TestNG_ReportsAndLogs.xml Coverage Results" MODIFIED="1587926815339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
