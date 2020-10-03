@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e0ae3db9-2100-412b-ba02-1b7caee0f846" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestNG/CustomListener1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestNG/CustomListener1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/alex/jedna/WaitForItTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/alex/jedna/WaitForItTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,19 +47,19 @@
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Uzivatel\IdeaProjects\seleniumadvanced\src\test\Resources" />
-      <recent name="C:\Users\Uzivatel\IdeaProjects\seleniumadvanced\src\main\resources" />
-      <recent name="C:\Users\Uzivatel\IdeaProjects\seleniumadvanced" />
-    </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="TestNG2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Uzivatel\IdeaProjects\seleniumadvanced\src\test\java\TestNG" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="TestNG" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Uzivatel\IdeaProjects\seleniumadvanced\src\test\java\TestNG" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Uzivatel\IdeaProjects\seleniumadvanced\src\test\Resources" />
+      <recent name="C:\Users\Uzivatel\IdeaProjects\seleniumadvanced\src\main\resources" />
+      <recent name="C:\Users\Uzivatel\IdeaProjects\seleniumadvanced" />
     </key>
   </component>
   <component name="RunDashboard">
