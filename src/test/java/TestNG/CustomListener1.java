@@ -3,7 +3,7 @@ package TestNG;
 import org.testng.IInvokedMethod;
 import org.testng.IInvokedMethodListener;
 import org.testng.ITestResult;
-
+//samo
 public class CustomListener1 implements IInvokedMethodListener {
 //this is very important
     @Override
